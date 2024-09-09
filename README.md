@@ -4,7 +4,9 @@
 Atliq Hardware is a Computer Hardware and Peripheral Manufacturer with regional offices all across the country. The sales recently have been declining and the sales director is having a hard time in tracking the reasons for the decline in sales. The sales director needs simple insights presented in the form of an Interactive dashboard from data.
 
 ## Project Overview:
-![Atliq Dashboard](https://github.com/user-attachments/assets/7f30c196-d847-432a-90d5-9aa0812f9890)
+https://public.tableau.com/app/profile/zia.moinuddin.shaikh/viz/sales_insights-Atliq_Hardware/Dashboard1
+
+![image](https://github.com/user-attachments/assets/9c05977f-75ae-451b-85cd-394f20e1b5b0)
 
 - Used SQL to perform Exploratory Data Analysis and to find trends by joining multiple tables and running queries.
 - Connected MySql Database to Tableau and established a data model.
